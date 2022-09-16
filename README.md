@@ -14,3 +14,7 @@
 
 ## [Aula 03 - RNA Multicamada - Gradiente Descendente](https://github.com/gustavowillam/RNA/blob/main/slides/03_Aula%2003-RNA-Redes%20Neurais%20Artificiais%20Gradient_Descending.pdf)
 
+* ### [Colab - RNA dataset Advertising  - Keras](https://colab.research.google.com/drive/1QXIHQqf7P2hcqv3b5Oe7Nt8Y2WxpczHt?usp=sharing)
+
+
+
