@@ -20,3 +20,24 @@
 * ### [Colab - RNA dataset Advertising  - PyTorch](https://colab.research.google.com/drive/1jURIHb9uC6_LWyXBApmuEv5zywzFRZb0?usp=sharing)
 
 * ### [Colab - RNA dataset Iris  - Scikit-Learn](https://colab.research.google.com/drive/1-fY5_dh6hE_hAcNu5T5KuygnNwGswLTi?usp=sharing)
+
+### RNA - Classificação Binária
+
+* ### [Colab - RNA dataset Breast Câncer - Arquitetura da RNA - Keras](https://colab.research.google.com/drive/15k7ht1S4g2ppJnW4WRBmx2W2TBezN4pI?usp=sharing)
+
+* ### [Colab - RNA dataset Breast Câncer - Adicionando mais camadas - Keras](https://colab.research.google.com/drive/1v4V7iQflz497J9vr4F9a34YnUFqn-WJk?usp=sharing)
+
+* ### [Colab - RNA dataset Breast Câncer - Validação Cruzada K-Fold - Keras](https://colab.research.google.com/drive/1zbDiTg2VSFEpJQ_CtiHS-x8CdXqFGXy-?usp=sharing)
+
+* ### [Colab - RNA dataset Breast Câncer - Otimização de Parâmetros - Keras](https://colab.research.google.com/drive/1i98lqvPudle-LuWsF_LbcZrsPGZAKpQA?usp=sharing)
+
+* ### [Colab - RNA dataset Breast Câncer - Salvando e Carregando a RNA treinada - Keras](https://colab.research.google.com/drive/1N2LqhgHw8oqCKFZRlFKo1QPQ_dw3GrLm?usp=sharing)
+
+
+
+
+
+
+
+
+
