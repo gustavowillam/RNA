@@ -17,5 +17,7 @@
 
 * ### [Colab - RNA dataset Advertising  - Keras](https://colab.research.google.com/drive/1QXIHQqf7P2hcqv3b5Oe7Nt8Y2WxpczHt?usp=sharing)
 
+* ### [Colab - RNA dataset Advertising  - PyTorch](https://colab.research.google.com/drive/1jURIHb9uC6_LWyXBApmuEv5zywzFRZb0?usp=sharing)
+
 
 
