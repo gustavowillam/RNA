@@ -72,6 +72,9 @@
 
 * ### [Colab - RNA dataset Carros Usados - Arquitetura da RNA - PyTorch](https://colab.research.google.com/drive/1nwLJb0fo1wdW-6NGRWXDitluP1TdlLX7?usp=sharing)
 
+* ### [Colab - RNA dataset Rent a House  - Tarefa](https://colab.research.google.com/drive/1CDQMQRjtPmOL5G6fwpe8ZMw3JCrSZO9w?usp=sharing)
+
+
 ## RNA - Regressão - Múltiplas Saídas
 
 * ### [Colab - RNA dataset Venda Jogos Video-Game - Arquitetura da RNA - Keras](https://colab.research.google.com/drive/1rd7cys6WuWMa6zRg8W8l2dOUaQtvMnaF?usp=sharing)
