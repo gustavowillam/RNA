@@ -68,9 +68,15 @@
 
 ## RNA - Regressão - Saída Única
 
+* ### [Colab - RNA dataset Carros Usados - Arquitetura da RNA - Keras](https://colab.research.google.com/drive/1QjVHyxI1dec4m0f20S9-VXlu6RaqMePj?usp=sharing)
 
+* ### [Colab - RNA dataset Carros Usados - Arquitetura da RNA - PyTorch](https://colab.research.google.com/drive/1nwLJb0fo1wdW-6NGRWXDitluP1TdlLX7?usp=sharing)
 
 ## RNA - Regressão - Múltiplas Saídas
+
+* ### [Colab - RNA dataset Venda Jogos Video-Game - Arquitetura da RNA - Keras](https://colab.research.google.com/drive/1rd7cys6WuWMa6zRg8W8l2dOUaQtvMnaF?usp=sharing)
+
+* ### [Colab - RNA dataset Venda Jogos Video-Game - Arquitetura da RNA - PyTorch](https://colab.research.google.com/drive/1kI5Ml4PgkATGQ2vb5p-LAYuU2MV0G1zr?usp=sharing)
 
 
 ## CNN - Redes Neurais Convolucionais
