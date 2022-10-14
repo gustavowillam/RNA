@@ -81,6 +81,8 @@
 
 * ### [Colab - RNA dataset Venda Jogos Video-Game - Arquitetura da RNA - PyTorch](https://colab.research.google.com/drive/1kI5Ml4PgkATGQ2vb5p-LAYuU2MV0G1zr?usp=sharing)
 
+* ### [Colab - RNA dataset Venda Jogos Video-Game  - Tarefa](https://colab.research.google.com/drive/1RGk7nMSfBcWmRwLSNMdSdNsJOroXfznW?usp=sharing)
+
 
 ## CNN - Redes Neurais Convolucionais
 
