@@ -84,7 +84,7 @@
 * ### [Colab - RNA dataset Venda Jogos Video-Game  - Tarefa](https://colab.research.google.com/drive/1RGk7nMSfBcWmRwLSNMdSdNsJOroXfznW?usp=sharing)
 
 
-## CNN - Redes Neurais Convolucionais
+## [Aula 04 - CNN - Redes Neurais Convolucionais](https://github.com/gustavowillam/RNA/blob/main/slides/04_Aula%2004-CNN-Redes%20Neurais%20Convolucionais.pdf)
 
 
 ## RNN - Redes Neurais Recorrentes
