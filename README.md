@@ -86,6 +86,9 @@
 
 ## [Aula 04 - CNN - Redes Neurais Convolucionais](https://github.com/gustavowillam/RNA/blob/main/slides/04_Aula%2004-CNN-Redes%20Neurais%20Convolucionais.pdf)
 
+* ### [Colab - CNN dataset MNIST - Classificação de Dígitos Escrito a Mão - Keras](https://colab.research.google.com/drive/1Jkgl_9i0-Y9qdkpGLk2D3z9dyC_UDhqf?usp=sharing)
+
+* ### [Colab - CNN dataset MNIST - Classificação de Dígitos Escrito a Mão - PyTorch](https://colab.research.google.com/drive/1ND3eO20Xd9RSEoLepk0jECLHU71dQZMA?usp=sharing)
 
 ## RNN - Redes Neurais Recorrentes
 
