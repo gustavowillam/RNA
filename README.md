@@ -90,18 +90,11 @@
 
 * ### [Colab - CNN dataset MNIST - Classificação de Dígitos Escrito a Mão - PyTorch](https://colab.research.google.com/drive/1ND3eO20Xd9RSEoLepk0jECLHU71dQZMA?usp=sharing)
 
+* ### [Colab - CNN dataset Cats/Dogs - Keras](https://colab.research.google.com/drive/1-FjD-DehKkd3ffLhyZLxq8yhIOdAls1n?usp=sharing)
+
+* ### [Colab - CNN dataset Cats/Dogs - PyTorch](https://colab.research.google.com/drive/1QiuZ200MG84fH-kqlXIL6HLDQQMbRHa8?usp=sharing)
+
+
 ## RNN - Redes Neurais Recorrentes
 
-
-## CV - Visão Computacional - YOLO 
-
-
-
-
-
-
-
-
-
-
-
+## CV - Visão Computacional - YOLO
