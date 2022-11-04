@@ -94,7 +94,9 @@
 
 * ### [Colab - CNN dataset Cats/Dogs - PyTorch](https://colab.research.google.com/drive/1QiuZ200MG84fH-kqlXIL6HLDQQMbRHa8?usp=sharing)
 
-* ### [CNN - Rede Treinada 50 épocas Cats/Dogs - Keras](https://github.com/gustavowillam/RNA/blob/main/redes_treinadas/model_cat_dog.zip)
+* ### [CNN - Rede Treinada 50 épocas Cats/Dogs - Keras](https://github.com/gustavowillam/RNA/blob/main/redes_treinadas/model_cat_dog_Kerras.zip)
+
+* ### [CNN - Rede Treinada 50 épocas Cats/Dogs - PyTorch](https://github.com/gustavowillam/RNA/blob/main/redes_treinadas/model_cat_dog_PyTorch.zip)
 
 
 ## RNN - Redes Neurais Recorrentes
