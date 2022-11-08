@@ -104,7 +104,7 @@
 
 * ### [Colab - CNN dataset CIFAR-10 - PyTorch](https://colab.research.google.com/drive/1JSqHEJU02-Ew79y0vGe2XWdFRPA8Clqe?usp=sharing)
 
-
+* ### [CNN - Rede Treinada 50 épocas CIFAR-10 - PyTorch](https://github.com/gustavowillam/RNA/blob/main/redes_treinadas/model_CIFAR10_PyTorch.zip)
 
 ## RNN - Redes Neurais Recorrentes
 
