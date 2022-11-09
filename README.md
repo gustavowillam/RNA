@@ -106,6 +106,14 @@
 
 * ### [CNN - Rede Treinada 50 épocas CIFAR-10 - PyTorch](https://github.com/gustavowillam/RNA/blob/main/redes_treinadas/model_CIFAR10_PyTorch.zip)
 
-## RNN - Redes Neurais Recorrentes
+## RNN - Redes Neurais Recorrentes - LSTM 
+
+* ### [Colab - LSTM - Serie Temporal - Bolsa de Valores - Petrobras](https://colab.research.google.com/drive/1vuTREeI1E3pCu4ptgxcooycD9FI_vrkE?usp=sharing)
+
+* ### [Colab - LSTM - Serie Temporal - Bolsa de Valores - Multiplos Previsores](https://colab.research.google.com/drive/150mgQi5sgLyMVDSd0bAHupgzC91tKDT_?usp=sharing)
+
+* ### [Colab - LSTM - Serie Temporal - Bolsa de Valores - Multiplas Saídas](https://colab.research.google.com/drive/1eknfx2K1tiRTxD7nrdRlq2J9V4AA7yHh?usp=sharing)
+
+
 
 ## CV - Visão Computacional - YOLO
