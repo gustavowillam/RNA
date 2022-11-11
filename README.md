@@ -108,12 +108,22 @@
 
 ## RNN - Redes Neurais Recorrentes - LSTM 
 
+### Biblioteca Keras
+
 * ### [Colab - LSTM - Serie Temporal - Bolsa de Valores - Petrobras](https://colab.research.google.com/drive/1vuTREeI1E3pCu4ptgxcooycD9FI_vrkE?usp=sharing)
 
 * ### [Colab - LSTM - Serie Temporal - Bolsa de Valores - Multiplos Previsores](https://colab.research.google.com/drive/150mgQi5sgLyMVDSd0bAHupgzC91tKDT_?usp=sharing)
 
 * ### [Colab - LSTM - Serie Temporal - Bolsa de Valores - Multiplas Saídas](https://colab.research.google.com/drive/1eknfx2K1tiRTxD7nrdRlq2J9V4AA7yHh?usp=sharing)
 
+### Biblioteca PyTorch
+
+* ### [Colab - LSTM - Serie Temporal - Bolsa de Valores - Petrobras](https://colab.research.google.com/drive/1WwP13ClMV7nLehtryK-gS0DKKErufw0o?usp=sharing)
+
+* ### [Colab - LSTM - Serie Temporal - Bolsa de Valores - Multiplos Previsores](https://colab.research.google.com/drive/1plRidsj8Q5WjOFaPmi7gj5q3ApheXvSc?usp=sharing)
+
+* ### [Colab - LSTM - Serie Temporal - Bolsa de Valores - Multiplas Saídas](https://colab.research.google.com/drive/1ezWqk1kj5vtg1mopO09AlrgktgJrrZAB?usp=sharing)
 
 
 ## CV - Visão Computacional - YOLO
+
