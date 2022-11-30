@@ -127,3 +127,15 @@
 
 ## CV - Visão Computacional - YOLO
 
+### Detecção de Objetos em Imagens
+
+* ### [YOLO V4 - Framework DarkNet](https://colab.research.google.com/drive/1OO_uzDNW0mT-KgFCiqXhl2S0-ib27XC9?usp=sharing)
+
+* ### [YOLO V4 - OpenCV]()
+
+### Detecção de Objetos em Videos
+
+* ### [YOLO V4 - Framework DarkNet]()
+
+* ### [YOLO V4 - OpenCV]()
+
