@@ -127,7 +127,7 @@
 
 ## CV - Visão Computacional - YOLO
 
-* ### [Download YOLO V4](https://github.com/gustavowillam/RNA/releases/download/YOLOV4/YOLO.zip)
+* ### [Download YOLO V4 treinada](https://github.com/gustavowillam/RNA/releases/download/YOLOV4/YOLO.zip)
 
 ### Detecção de Objetos em Imagens
 
