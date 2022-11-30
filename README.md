@@ -127,6 +127,8 @@
 
 ## CV - Visão Computacional - YOLO
 
+* ### [Download YOLO V4](https://github.com/gustavowillam/RNA/releases/download/YOLOV4/YOLO.zip)
+
 ### Detecção de Objetos em Imagens
 
 * ### [YOLO V4 - Framework DarkNet](https://colab.research.google.com/drive/1OO_uzDNW0mT-KgFCiqXhl2S0-ib27XC9?usp=sharing)
