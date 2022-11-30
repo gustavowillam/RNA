@@ -133,7 +133,7 @@
 
 * ### [YOLO V4 - Framework DarkNet](https://colab.research.google.com/drive/1OO_uzDNW0mT-KgFCiqXhl2S0-ib27XC9?usp=sharing)
 
-* ### [YOLO V4 - OpenCV]()
+* ### [YOLO V4 - OpenCV](https://colab.research.google.com/drive/1ZKNkW7i9OXg5bxy6kr0ducK-rzeCoLLU?usp=sharing)
 
 ### Detecção de Objetos em Videos
 
