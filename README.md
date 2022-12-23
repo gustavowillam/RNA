@@ -116,6 +116,9 @@
 
 * ### [Colab - LSTM - Serie Temporal - Bolsa de Valores - Multiplas Saídas](https://colab.research.google.com/drive/1eknfx2K1tiRTxD7nrdRlq2J9V4AA7yHh?usp=sharing)
 
+* ### [Colab - LSTM - Serie Temporal - Bolsa de Valores - Petrobras - Tarefa 3 - Predição Futura](https://colab.research.google.com/drive/1MoY5YzBux1nr4oho9nNVKH42WEzB7OT-?usp=sharing)
+
+
 ### Biblioteca PyTorch
 
 * ### [Colab - LSTM - Serie Temporal - Bolsa de Valores - Petrobras](https://colab.research.google.com/drive/1WwP13ClMV7nLehtryK-gS0DKKErufw0o?usp=sharing)
