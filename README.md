@@ -36,11 +36,6 @@
 
 ### Biblioteca PyTorch
 
- * ### [Colab - RNA dataset Breast Câncer - Arquitetura da RNA - PyTorch](https://colab.research.google.com/drive/1wmEK8zqH6EkCnOA4yQ8nFaIVtRsU3v57?usp=sharing)
-
-* ### [Colab - RNA dataset Breast Câncer - Adicionando mais camadas - PyTorch](https://colab.research.google.com/drive/1vQa0eNFzt4L1S3z7xCn6M1nx85roXEag?usp=sharing)
-
-* ### [Colab - RNA dataset Breast Câncer - Salvando e Carregando a RNA treinada - PyTorch](https://colab.research.google.com/drive/1m40Y9O_J27r29GsnOeKBDfppV2lHhqCQ?usp=sharing)
 
 ## RNA - Classificação Multiclasse
 
