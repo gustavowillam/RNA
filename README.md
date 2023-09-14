@@ -31,20 +31,58 @@
 
 * ### [Colab - RNA dataset Breast Câncer - Adicionando mais camadas - Keras](https://colab.research.google.com/drive/1v4V7iQflz497J9vr4F9a34YnUFqn-WJk?usp=sharing)
 
+* ### [Colab - RNA dataset Breast Câncer - Validação Cruzada K-Fold - Keras](https://colab.research.google.com/drive/1zbDiTg2VSFEpJQ_CtiHS-x8CdXqFGXy-?usp=sharing)
+
+* ### [Colab - RNA dataset Breast Câncer - Otimização de Parâmetros - Keras](https://colab.research.google.com/drive/1i98lqvPudle-LuWsF_LbcZrsPGZAKpQA?usp=sharing)
+
 * ### [Colab - RNA dataset Breast Câncer - Salvando e Carregando a RNA treinada - Keras](https://colab.research.google.com/drive/1N2LqhgHw8oqCKFZRlFKo1QPQ_dw3GrLm?usp=sharing)
 
 
 ### Biblioteca PyTorch
 
+* ### [Colab - RNA dataset Breast Câncer - Arquitetura da RNA - PyTorch](https://colab.research.google.com/drive/1wmEK8zqH6EkCnOA4yQ8nFaIVtRsU3v57?usp=sharing)
+
+* ### [Colab - RNA dataset Breast Câncer - Adicionando mais camadas - PyTorch](https://colab.research.google.com/drive/1vQa0eNFzt4L1S3z7xCn6M1nx85roXEag?usp=sharing)
+
+* ### [Colab - RNA dataset Breast Câncer - Validação Cruzada K-Fold - PyTorch](https://colab.research.google.com/drive/1PQUyl61OaHB75oe_nDpArqR0_AU0ianA?usp=sharing)
+
+* ### [Colab - RNA dataset Breast Câncer - Otimização de Parâmetros - PyTorch](https://colab.research.google.com/drive/11Eh0qvFQ9r4GMUFRdHqPBI3rR4TuuL8D?usp=sharing)
+
+* ### [Colab - RNA dataset Breast Câncer - Salvando e Carregando a RNA treinada - PyTorch](https://colab.research.google.com/drive/1m40Y9O_J27r29GsnOeKBDfppV2lHhqCQ?usp=sharing)
+  
 
 ## RNA - Classificação Multiclasse
+
+### Biblioteca Keras
+
+* ### [Colab - RNA dataset Flor de Iris - Arquitetura da RNA - Keras](https://colab.research.google.com/drive/1lJS898BOhbzQOhlh8bLHwcYscSYIAKUL?usp=sharing)
+
+* ### [Colab - RNA dataset Flor de Iris - Validação Cruzada K-Fold - Keras](https://colab.research.google.com/drive/1UjQv7Wo11vdknnvwYGgTe2qQLb71yacz?usp=sharing)
+
+### Biblioteca PyTorch
+
+* ### [Colab - RNA dataset Flor de Iris - Arquitetura da RNA - PyTorch](https://colab.research.google.com/drive/1_MM0vGUADQJfhJtWCCjDs45PsgAp6w92?usp=sharing)
+
+* ### [Colab - RNA dataset Flor de Iris - Validação Cruzada K-Fold - PyTorch](https://colab.research.google.com/drive/1yiy6oAzirBE4DrfYGCGX6KNoMZmhwIVp?usp=sharing)
 
 
 ## RNA - Regressão - Saída Única
 
+* ### [Colab - RNA dataset Carros Usados - Arquitetura da RNA - Keras](https://colab.research.google.com/drive/1QjVHyxI1dec4m0f20S9-VXlu6RaqMePj?usp=sharing)
+
+* ### [Colab - RNA dataset Carros Usados - Arquitetura da RNA - PyTorch](https://colab.research.google.com/drive/1nwLJb0fo1wdW-6NGRWXDitluP1TdlLX7?usp=sharing)
+
+* ### [Colab - RNA dataset Rent a House  - Exercício](https://colab.research.google.com/drive/1CDQMQRjtPmOL5G6fwpe8ZMw3JCrSZO9w?usp=sharing)
+  
 
 ## RNA - Regressão - Múltiplas Saídas
 
+* ### [Colab - RNA dataset Venda Jogos Video-Game - Arquitetura da RNA - Keras](https://colab.research.google.com/drive/1rd7cys6WuWMa6zRg8W8l2dOUaQtvMnaF?usp=sharing)
+
+* ### [Colab - RNA dataset Venda Jogos Video-Game - Arquitetura da RNA - PyTorch](https://colab.research.google.com/drive/1kI5Ml4PgkATGQ2vb5p-LAYuU2MV0G1zr?usp=sharing)
+
+* ### [Colab - RNA dataset Venda Jogos Video-Game  - Exercício](https://colab.research.google.com/drive/1RGk7nMSfBcWmRwLSNMdSdNsJOroXfznW?usp=sharing)
+  
 
 ## Aula 04 - CNN - Redes Neurais Convolucionais
 
