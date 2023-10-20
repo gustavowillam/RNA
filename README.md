@@ -83,8 +83,18 @@
 
 * ### [Colab - RNA dataset Venda Jogos Video-Game  - Exercício](https://colab.research.google.com/drive/1RGk7nMSfBcWmRwLSNMdSdNsJOroXfznW?usp=sharing)
   
+## [Aula 03 - RNA Multicamada - Gradiente Descendente](https://github.com/gustavowillam/RNA/blob/main/slides/03_Aula%2003-RNA-Redes%20Neurais%20Artificiais%20Gradient_Descending.pdf)
 
-## Aula 04 - CNN - Redes Neurais Convolucionais
+
+## [Aula 04 - CNN - Redes Neurais Convolucionais](https://github.com/gustavowillam/RNA/blob/main/slides/04_Aula%2004-CNN-Redes%20Neurais%20Convolucionais.pdf)
+
+* ### [Colab - CNN dataset MNIST - Classificação de Dígitos Escrito a Mão - Keras](https://colab.research.google.com/drive/1Jkgl_9i0-Y9qdkpGLk2D3z9dyC_UDhqf?usp=sharing)
+
+* ### [Colab - CNN dataset MNIST - Classificação de Dígitos Escrito a Mão - PyTorch](https://colab.research.google.com/drive/1ND3eO20Xd9RSEoLepk0jECLHU71dQZMA?usp=sharing)
+
+* ### [Colab - CNN dataset Cats/Dogs - Keras](https://colab.research.google.com/drive/1-FjD-DehKkd3ffLhyZLxq8yhIOdAls1n?usp=sharing)
+
+* ### [CNN - Rede Treinada 50 épocas Cats/Dogs - Keras](https://github.com/gustavowillam/RNA/blob/main/redes_treinadas/model_cat_dog_50_Keras.zip)
 
 
 ## RNN - Redes Neurais Recorrentes - LSTM 
