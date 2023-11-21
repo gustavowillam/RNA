@@ -102,14 +102,3 @@
 
 * ### [CNN - Rede Treinada 50 épocas Cats/Dogs - PyTorch](https://github.com/gustavowillam/RNA/blob/main/redes_treinadas/model_cat_dog_50_PyTorch.zip)
 
-
-## RNN - Redes Neurais Recorrentes - LSTM 
-
-
-## CV - Visão Computacional - YOLO
-
-
-### Detecção de Objetos em Imagens
-
-
-### Detecção de Objetos em Videos
