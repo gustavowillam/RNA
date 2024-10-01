@@ -8,3 +8,6 @@
 
 * ### [Colab - RNA Multicamada XOR - Numpy](https://colab.research.google.com/drive/16nIE5-OZubxDTmGCcTPDgpOQn3be1MbU?usp=sharing)
 
+* ### [Colab - RNA Multicamada XOR - Keras](https://colab.research.google.com/drive/1Jwmv_kvKXOXefpoMLAoNGHP24n_DtxwK?usp=sharing)
+
+* ### [Colab - RNA Multicamada XOR - PyTorch](https://colab.research.google.com/drive/1JRALbhD7DGZ6ei8LxTnle4PzMPf7XnQV?usp=sharing)
