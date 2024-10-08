@@ -13,3 +13,19 @@
 * ### [Colab - RNA Multicamada XOR - PyTorch](https://colab.research.google.com/drive/1JRALbhD7DGZ6ei8LxTnle4PzMPf7XnQV?usp=sharing)
 
 ## [Aula 03 - RNA Multicamada - Gradiente Descendente](https://github.com/gustavowillam/RNA/blob/main/slides/03_Aula%2003-RNA-Redes%20Neurais%20Artificiais%20Gradient_Descending.pdf)
+
+
+## RNA - Classificação Binária
+
+
+### Biblioteca Keras
+
+* ### [Colab - RNA dataset Breast Câncer - Arquitetura da RNA - Keras](https://colab.research.google.com/drive/15k7ht1S4g2ppJnW4WRBmx2W2TBezN4pI?usp=sharing)
+
+* ### [Colab - RNA dataset Breast Câncer - Salvando e Carregando a RNA treinada - Keras](https://colab.research.google.com/drive/1N2LqhgHw8oqCKFZRlFKo1QPQ_dw3GrLm?usp=sharing)
+
+
+### Biblioteca PyTorch
+
+* ### [Colab - RNA dataset Breast Câncer - Arquitetura da RNA - PyTorch](https://colab.research.google.com/drive/1wmEK8zqH6EkCnOA4yQ8nFaIVtRsU3v57?usp=sharing)
+
