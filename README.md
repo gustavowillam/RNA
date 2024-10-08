@@ -29,3 +29,6 @@
 
 * ### [Colab - RNA dataset Breast Câncer - Arquitetura da RNA - PyTorch](https://colab.research.google.com/drive/1wmEK8zqH6EkCnOA4yQ8nFaIVtRsU3v57?usp=sharing)
 
+### Prática
+
+* ### [Colab - RNA dataset TeleconUsers - Keras/PyTorch](https://colab.research.google.com/drive/1a_6pVuSO2xYDYs4WLRmhUYYFWe6qP8Ux?usp=sharing)
