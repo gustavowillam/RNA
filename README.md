@@ -24,10 +24,14 @@
 
 * ### [Colab - RNA dataset Breast Câncer - Salvando e Carregando a RNA treinada - Keras](https://colab.research.google.com/drive/1N2LqhgHw8oqCKFZRlFKo1QPQ_dw3GrLm?usp=sharing)
 
+* ### [Colab - RNA dataset Breast Câncer - Otimização de Parâmetros - Keras](https://colab.research.google.com/drive/1i98lqvPudle-LuWsF_LbcZrsPGZAKpQA?usp=sharing)
+
 
 ### Biblioteca PyTorch
 
 * ### [Colab - RNA dataset Breast Câncer - Arquitetura da RNA - PyTorch](https://colab.research.google.com/drive/1wmEK8zqH6EkCnOA4yQ8nFaIVtRsU3v57?usp=sharing)
+
+* ### [Colab - RNA dataset Breast Câncer - Otimização de Parâmetros - PyTorch](https://colab.research.google.com/drive/1PQUyl61OaHB75oe_nDpArqR0_AU0ianA?usp=sharing)
 
 ### Prática
 
