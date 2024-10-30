@@ -36,3 +36,19 @@
 ### Prática
 
 * ### [Colab - RNA dataset TeleconUsers - Keras/PyTorch](https://colab.research.google.com/drive/1a_6pVuSO2xYDYs4WLRmhUYYFWe6qP8Ux?usp=sharing)
+
+
+## RNA - Classificação Multiclasse
+
+### Biblioteca Keras
+
+* ### [Colab - RNA dataset Flor de Iris - Arquitetura da RNA - Keras](https://colab.research.google.com/drive/1lJS898BOhbzQOhlh8bLHwcYscSYIAKUL?usp=sharing)
+
+* ### [Colab - RNA dataset Flor de Iris - Validação Cruzada K-Fold - Keras](https://colab.research.google.com/drive/1UjQv7Wo11vdknnvwYGgTe2qQLb71yacz?usp=sharing)
+
+### Biblioteca PyTorch
+
+* ### [Colab - RNA dataset Flor de Iris - Arquitetura da RNA - PyTorch](https://colab.research.google.com/drive/1_MM0vGUADQJfhJtWCCjDs45PsgAp6w92?usp=sharing)
+
+* ### [Colab - RNA dataset Flor de Iris - Validação Cruzada K-Fold - PyTorch](https://colab.research.google.com/drive/1yiy6oAzirBE4DrfYGCGX6KNoMZmhwIVp?usp=sharing)
+
