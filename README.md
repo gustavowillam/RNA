@@ -52,6 +52,8 @@
 
 * ### [Colab - RNA dataset Flor de Iris - Validação Cruzada K-Fold - PyTorch](https://colab.research.google.com/drive/1yiy6oAzirBE4DrfYGCGX6KNoMZmhwIVp?usp=sharing)
 
+* ### [Colab - RNA dataset Digit Recognizer - Kaggle](https://colab.research.google.com/drive/1aGz9CwnmE-wmBvvESVc2qWb9oOXOD9Dy?usp=sharing)
+
 
 ## RNA - Regressão - Saída Única
 
