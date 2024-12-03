@@ -94,3 +94,7 @@
 * ### [Colab - LSTM - Serie Temporal - Bolsa de Valores - Multiplas Saídas](https://colab.research.google.com/drive/1ezWqk1kj5vtg1mopO09AlrgktgJrrZAB?usp=sharing)
 
 
+## [Aula 04 - CNN - Redes Neurais Convolucionais](https://github.com/gustavowillam/RNA/blob/main/slides/04_Aula%2004-CNN-Redes%20Neurais%20Convolucionais.pdf)
+
+
+
