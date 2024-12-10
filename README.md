@@ -100,3 +100,16 @@
 
 * ### [Colab - CNN dataset MNIST - Classificação de Dígitos Escrito a Mão - PyTorch](https://colab.research.google.com/drive/1ND3eO20Xd9RSEoLepk0jECLHU71dQZMA?usp=sharing)
 
+* ### [Colab - CNN dataset Cats/Dogs - Keras](https://colab.research.google.com/drive/1-FjD-DehKkd3ffLhyZLxq8yhIOdAls1n?usp=sharing)
+
+* ### [CNN - Rede Treinada 01 época Cats/Dogs - Keras](https://github.com/gustavowillam/RNA/blob/main/redes_treinadas/model_cat_dog_01_Keras.zip)
+
+* ### [CNN - Rede Treinada 50 épocas Cats/Dogs - Keras](https://github.com/gustavowillam/RNA/blob/main/redes_treinadas/model_cat_dog_50_Keras.zip)
+
+* ### [Colab - CNN dataset Cats/Dogs - PyTorch](https://colab.research.google.com/drive/1QiuZ200MG84fH-kqlXIL6HLDQQMbRHa8?usp=sharing)
+
+* ### [CNN - Rede Treinada 01 época  Cats/Dogs - PyTorch](https://github.com/gustavowillam/RNA/blob/main/redes_treinadas/model_cat_dog_01_PyTorch.zip)
+
+* ### [CNN - Rede Treinada 50 épocas Cats/Dogs - PyTorch](https://github.com/gustavowillam/RNA/blob/main/redes_treinadas/model_cat_dog_50_PyTorch.zip)
+
+
